@@ -1,6 +1,5 @@
 package SendMail;
 
-import java.util.Scanner;
 
 public class Main {
 
